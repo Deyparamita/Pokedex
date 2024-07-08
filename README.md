@@ -13,6 +13,17 @@ Welcome to the Pokedex App! This application allows users to browse through a co
 - **API:** The app utilizes the Pokémon API to fetch data about various Pokémon species.
 - **Backend:** No backend is used as the application fetches data directly from the API.
 
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](screenshots/image1.png)
+
+### Screenshot 2
+![Screenshot 2](screenshots/image2.png)
+
+### Screenshot 3
+![Screenshot 3](screenshots/image3.png)
+
 ## Usage
 
 Whether you're a seasoned Pokémon trainer or just starting your journey, the Pokedex App is your ultimate companion for all things Pokémon. Here's how you can make the most out of it:
